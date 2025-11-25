@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "1": {
+      "name": "Mark Life",
+      "progress": 9.124087591240876
+    },
+    "2": {
+      "name": "未知",
+      "progress": 0
+    }
+  },
+  "next_task_id": 3,
+  "startup_enabled": true
+}
